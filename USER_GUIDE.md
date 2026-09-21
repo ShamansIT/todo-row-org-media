@@ -163,4 +163,4 @@ Four entry points, same underlying commands:
 - **A connector line looks like it's pointing nowhere** - click Auto-Arrange (see step 7) to force a full redraw, or drag the node slightly; both recompute line geometry from scratch.
 - **An object won't disconnect from the wrong org** - Locked Org Mode is intentional (step 3). Use the explicit Disconnect action in Org Bridge, not the org chip's picker.
 - Known gaps that are gaps on purpose, not bugs - LWC dynamic-import scanning, Quick Load App's tab-to-object resolution being heuristic, and a few others - are listed in the README's *Known limitations* section, not repeated here.
-- Anything not covered above: [open an issue](https://github.com/ShamansIT/TODO-ROW-ORG/issues).
+- Anything not covered above: [open an issue](https://github.com/ShamansIT/todo-row-org-issues/issues).
