@@ -1,6 +1,6 @@
 # ToDo Row Org - Public Assets
 
-Public asset repository for the [ToDo Row Org](https://github.com/ShamansIT/TODO-ROW-ORG) VS Code extension. Contains GIFs/screenshots and small public documentation files (never source code) referenced by the extension's `README.md` and the marketing website.
+Public asset repository for the [ToDo Row Org](https://marketplace.visualstudio.com/items?itemName=ToDoRow.todo-row-org) VS Code extension (source repo is private - proprietary software, see the extension's own `LICENSE`). Contains GIFs/screenshots and small public documentation files (never source code) referenced by the extension's `README.md` and the marketing website.
 
 ## USER_GUIDE.md
 
